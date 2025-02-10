@@ -26,5 +26,5 @@ This project implements real-time camera filters on the Zybo Z7-20 FPGA using th
 - All details about the implemntation is available in the Documentation
 
 ![FPGA Block Diagram](images/diagram.png)
-![FPGA Setup](images/setup.png)
-![Edge Detection Test](images/edg.png)
+![FPGA Setup](images/FPGA.jpg)
+![Edge Detection Test](images/edg.jpg)
